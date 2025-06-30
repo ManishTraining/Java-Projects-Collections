@@ -1,3 +1,4 @@
+#comment
 # This config was automatically generated from your source code
 # Stacks detected: cicd:github-actions:.github/workflows,deps:java:.,deps:python:.,tool:gradle:
 version: 2.1
